@@ -1,0 +1,14 @@
+body{    
+    Margin: 0px;
+    padding: 0px;
+    Background : #CCCCCC;
+}
+header p{
+    font-size:24px ;
+}
+header h1{
+    font-size:28px ;
+}
+section{
+    margin-left: 20px;
+}
